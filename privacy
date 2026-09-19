@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Mihenk</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 760px;
+      margin: 60px auto;
+      padding: 0 20px;
+      line-height: 1.7;
+      color: #222;
+    }
+    a { color: #555; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Last updated: September 19, 2026</p>
+
+<p>
+This Privacy Policy explains how Mihenk handles information when
+users connect their TikTok account or use Mihenk's publishing functionality.
+</p>
+
+<h2>1. Information We Process</h2>
+
+<p>
+When a TikTok account is connected, Mihenk may process information
+provided through TikTok's official APIs, including:
+</p>
+
+<ul>
+  <li>TikTok account identifiers</li>
+  <li>Authorization tokens</li>
+  <li>Account authorization status</li>
+  <li>Video publishing information</li>
+  <li>Post identifiers and publishing status</li>
+  <li>Technical logs required to operate the service</li>
+</ul>
+
+<h2>2. How Information Is Used</h2>
+
+<p>
+Information is used only to:
+</p>
+
+<ul>
+  <li>authenticate authorized TikTok accounts</li>
+  <li>publish requested video content</li>
+  <li>check publishing status</li>
+  <li>prevent duplicate publishing</li>
+  <li>maintain and troubleshoot the application</li>
+</ul>
+
+<h2>3. Data Sharing</h2>
+
+<p>
+Mihenk does not sell personal information.
+</p>
+
+<p>
+Information may be transmitted to TikTok and other technical
+service providers only when necessary to provide the application's
+publishing functionality.
+</p>
+
+<h2>4. Authentication Tokens</h2>
+
+<p>
+Authentication credentials and tokens are stored securely and are
+used only to communicate with authorized platform APIs.
+They are not intentionally exposed publicly.
+</p>
+
+<h2>5. Data Retention</h2>
+
+<p>
+Information is retained only for as long as necessary to operate
+the application, maintain publishing records, or comply with
+applicable requirements.
+</p>
+
+<h2>6. Revoking Access</h2>
+
+<p>
+Users may revoke Mihenk's access through TikTok account settings
+or other authorization controls provided by TikTok.
+</p>
+
+<h2>7. Security</h2>
+
+<p>
+Reasonable technical measures are used to protect credentials,
+tokens, and application data from unauthorized access.
+</p>
+
+<h2>8. Changes to This Policy</h2>
+
+<p>
+This Privacy Policy may be updated when the application's functionality
+or legal requirements change. The current version will remain available
+on this page.
+</p>
+
+<h2>9. Contact</h2>
+
+<p>
+For privacy-related questions, please contact:
+<strong>YOUR_EMAIL_ADDRESS</strong>
+</p>
+
+<p><a href="index.html">Back to Mihenk</a></p>
+
+</body>
+</html>
